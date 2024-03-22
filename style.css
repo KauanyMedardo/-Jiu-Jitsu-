@@ -3,6 +3,7 @@ h1{
 }
 body{
     border:black solid 2px ;
+    text-align: center;
 }
 h2{
     text-align: center;
@@ -10,5 +11,3 @@ h2{
 img{
     text-align: center;
 }
-
-   
