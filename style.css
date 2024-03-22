@@ -3,7 +3,6 @@ h1{
 }
 body{
     border:black solid 2px ;
-    text-align: center;
     background-color: black;
     color: white;
 }
@@ -11,5 +10,8 @@ h2{
     text-align: center;
 }
 img{
+    text-align: center;
+}
+.imagemnocentro{
     text-align: center;
 }
