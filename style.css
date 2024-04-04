@@ -17,8 +17,6 @@ body {
 h2 {
     text-align: center;
     color: rgb(100, 100, 218);
-    margin: 0;
-    padding: 0;
 }
 
 img {
@@ -33,7 +31,8 @@ li {
     color: rgb(147, 147, 238);
 }
 
-
-u{
+h3 {
     color: rgb(100, 100, 218);
 }
+
+u{}
